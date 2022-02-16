@@ -6,7 +6,7 @@
 package column
 
 import (
-	"github.com/ClickHouse/clickhouse-go/v2/lib/binary"
+	"github.com/grizio/clickhouse-go/v2/lib/binary"
 )
 
 

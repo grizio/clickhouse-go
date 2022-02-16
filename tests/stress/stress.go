@@ -28,9 +28,9 @@ import (
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
 	"github.com/google/uuid"
+	"github.com/grizio/clickhouse-go/v2"
+	"github.com/grizio/clickhouse-go/v2/lib/driver"
 	_ "github.com/mkevac/debugcharts"
 )
 

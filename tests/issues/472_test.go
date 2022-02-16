@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
 	"github.com/google/uuid"
+	"github.com/grizio/clickhouse-go/v2"
 	"github.com/stretchr/testify/assert"
 )
 

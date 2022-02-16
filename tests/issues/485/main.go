@@ -21,8 +21,6 @@ import (
 	"fmt"
 	"log"
 	"time"
-
-	"github.com/ClickHouse/clickhouse-go/v2"
 )
 
 func example() error {

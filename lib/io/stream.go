@@ -21,7 +21,7 @@ import (
 	"bufio"
 	"io"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/compress"
+	"github.com/grizio/clickhouse-go/v2/lib/compress"
 )
 
 const (

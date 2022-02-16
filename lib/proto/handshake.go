@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/binary"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/timezone"
+	"github.com/grizio/clickhouse-go/v2/lib/binary"
+	"github.com/grizio/clickhouse-go/v2/lib/timezone"
 )
 
 const ClientName = "Golang SQLDriver"
